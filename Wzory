@@ -1,0 +1,64 @@
+Wzory
+
+Kwadrat{
+P = a * a
+L = 4a
+Przekątna = a√2
+},
+
+Prostokąt{
+P = a * b
+L = 2a + 2b
+},
+
+Równoległobok{
+P = a * h
+L = 2a + 2b
+},
+
+Romb{
+P = (e * f)/2    lub     a * h
+L = 4a
+},
+
+Trapez{
+P = ((a + b) * h)/2
+L = a + b + c + d
+},
+
+Trójkąt{
+P = a * h
+},
+
+Trójkąt równoboczny{
+P = (a²√3)/4
+h = (a√3)/2
+},
+
+Sześcian{
+V = a³
+Pc = 6a²
+Przekątna = a√3
+},
+
+Prostopadłościan{
+V = a * b * c
+Pc = 2(ab + ac + bc)
+},
+
+Graniastosłup{
+V = Pp * H
+Pc = 2Pp + Pb
+},
+
+Ostrosłup{
+V = 1/3Pp * H
+Pc = Pp + Pb
+},
+
+Kąty przystające w trójkątach{
+
+Jak jest 90°, 45° i 45° to boki przy kącie 90° mają "a" natomiast przeciwprostokątna ma "a√2"
+
+Jak jest 90°, 30° i 60° to bok przy kącie 90° i 30° ma "a√3", bok przy kącie 90° i 60° ma "a" natomiast przeciwprostokątna ma "2a"
+}
